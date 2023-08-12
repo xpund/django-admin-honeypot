@@ -13,3 +13,5 @@ dist/
 django_admin_honeypot.egg-info/
 docs/_build/
 pep8.txt
+venv/
+.idea/
